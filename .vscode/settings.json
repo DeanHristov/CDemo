@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "cstdio": "c",
+        "binarytree.h": "c",
+        "binarytreetodll.h": "c",
+        "stdlib.h": "c"
+    }
+}
